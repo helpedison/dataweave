@@ -1,0 +1,14 @@
+{
+  "item": {
+    "type": "book",
+    "price": 30,
+    "properties": {
+        "title": "Everyday Italian",
+        "author": [
+          "Giada De Laurentiis"
+        ],
+        "year": 2005,
+        "langage": "en"
+    }
+  }
+}
